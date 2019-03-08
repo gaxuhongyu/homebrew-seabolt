@@ -4,8 +4,8 @@
 class Seabolt < Formula
   desc "Neo4j Bolt Connector for C"
   homepage "https://github.com/neo4j-drivers/seabolt"
-  url "https://github.com/neo4j-drivers/seabolt/archive/v1.7.2.zip"
-  sha256 "ccb6aad673600c0f23d9e2a19939e352a2d74be11cc7a2f2914368f1f3fe661b"
+  url "https://github.com/neo4j-drivers/seabolt/archive/v1.7.3.zip"
+  sha256 "16b3d05a083fef88bcf180daba226be1379fe8a442f2cc5ca4bff6d233dbeb23"
   
   depends_on "cmake"
   depends_on "openssl"
